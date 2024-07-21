@@ -1,0 +1,21 @@
+{
+  "server": {
+    "host": "mc.hypixel.net",
+    "port": 25565
+  },
+  "minecraft": {
+    "username": "",
+    "password": "",
+    "lobbyHolder": "",
+    "accountType": ""
+  },
+  "discord": {
+    "token": "",
+    "channel": "",
+    "officerChannel": "",
+    "commandRole": "",
+    "ownerId": "",
+    "prefix": "!",
+    "messageMode": "bot"
+  }
+}
